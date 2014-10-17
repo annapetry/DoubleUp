@@ -18,5 +18,6 @@ group :development do
   gem 'pry-rails'
   gem 'debugger'
   gem 'spring'
+  gem 'rspec-rails'
 end
 
